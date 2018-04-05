@@ -7,4 +7,5 @@ The program reads process information from a text file, and the runs the schedul
 
 A simple GUI was madde for it using Netbean's GUI maker. The GUI shows the Gantt chart and what's currently happening in the scheduler.
 
+There are multiple classes, but they were kept in one file to make it easy to turn in.
 
