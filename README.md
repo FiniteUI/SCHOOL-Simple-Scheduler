@@ -1,5 +1,5 @@
 # Simple-Scheduler
-Written during Spring 2018 Semester
+# Written during Spring 2018 Semester
 
 This is a project for my Operating Systems class to create a simple processor scheduler program.
 
