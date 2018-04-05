@@ -9,3 +9,5 @@ A simple GUI was madde for it using Netbean's GUI maker. The GUI shows the Gantt
 
 There are multiple classes, but they were kept in one file to make it easy to turn in.
 
+There's also a button with a link to a funny youtube video in the GUI... the professor had similar buttons on his example version so I thought I would respond in kind.
+
