@@ -1,6 +1,6 @@
 # Simple-Scheduler, Spring 2018
 
-This is a project for my Operating Systems class to create a simple processor scheduler program.
+This is a project for my Spring 2018 Operating Systems class to create a simple processor scheduler program.
 
 A full description is available in Assignment3Description.pdf
 
